@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Seyi
 
-I'm a software developer who recently graduated from the University of Alberta. interested in mobile apps, full-stack development, and clean UI design.
+I'm a software developer who recently graduated from the University of Alberta, who is currently interested in mobile apps, full-stack development, and clean UI design.
 
 ---
 
