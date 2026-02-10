@@ -4,31 +4,30 @@ I'm a software developer who recently graduated from the University of Alberta, 
 
 ---
 
-# 🚀 Projects
+# Projects
 ---
 ## Solo Projects
-### 📱 LuckyEvent – Event Lottery Mobile App
-Android app for community events with QR check-in, Firebase backend, and role-based access.
+###  Sport News App for Desktop platform
+A desktop app the allows you to access the latest sport news from all availalble providers.
 
-🔗 Repo: https://github.com/Bamijoko-Seyi/LuckyEvent  
-🛠 Tech: Java, Firebase, Android Studio
+🔗 Repo: https://github.com/Bamijoko-Seyi/SportsApp
 
----
 
-### 🛒 E-Commerce Web App
+🛠 Tech: C#, XML, Visual Studio Code
+
+### 🛒 E-Commerce Web App (In progress)
 Frontend e-commerce project with product filtering, cart system, and React context.
 
 🔗 Repo: https://github.com/Bamijoko-Seyi/ecommerce-app  
 🛠 Tech: React, JavaScript, CSS
 
----
+### 🛒 MultiMedia Mobile App (Temporarily suspended)
+Frontend e-commerce project with product filtering, cart system, and React context.
 
-### 📊 Power BI Login & Analytics Platform
-Secure login platform displaying Power BI dashboards using Microsoft authentication.
+🔗 Repo: https://github.com/Bamijoko-Seyi/  
+🛠 Tech: React, JavaScript, CSS
 
-🔗 Repo: https://github.com/Bamijoko-Seyi/powerbi-login  
-🛠 Tech: Python, MSAL, Azure
-
+## Group Projects
 ---
 
 ## 🧰 Tech Stack
