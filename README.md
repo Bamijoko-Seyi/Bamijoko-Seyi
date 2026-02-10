@@ -25,6 +25,10 @@ Frontend e-commerce project with product filtering, cart system, and React conte
 
 🔗 Repo: https://github.com/Bamijoko-Seyi/ecommerce-app  
 🛠 Tech: React, JavaScript, CSS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/Ecommerence-App/refs/heads/main/frontend/src/assets/Demo1.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/Ecommerence-App/refs/heads/main/frontend/src/assets/Demo2.png" width="350"/>
+</p>
 
 ### 🛒 MultiMedia Mobile App (Temporarily suspended)
 Frontend e-commerce project with product filtering, cart system, and React context.
