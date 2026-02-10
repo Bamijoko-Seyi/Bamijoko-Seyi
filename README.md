@@ -20,10 +20,10 @@ A desktop app the allows you to access the latest sport news from all availalble
 </p>
 
 
-### 🛒 E-Commerce Web App (In progress)
+### E-Commerce Web App (In progress)
 Frontend e-commerce project with product filtering, cart system, and React context.
 
-🔗 Repo: https://github.com/Bamijoko-Seyi/ecommerce-app  
+🔗 Repo: https://github.com/Bamijoko-Seyi/Ecommerence-App
 🛠 Tech: React, JavaScript, CSS
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/Ecommerence-App/refs/heads/main/frontend/src/assets/Demo1.png" width="350"/>
