@@ -31,7 +31,7 @@ Frontend e-commerce project with product filtering, cart system, and React conte
 </p>
 
 ### 🛒 MultiMedia Mobile App (Temporarily suspended)
-Frontend e-commerce project with product filtering, cart system, and React context.
+Mobile app used to personalize and view media from many platforms.
 
 🔗 Repo: https://github.com/Bamijoko-Seyi/  
 🛠 Tech: React, JavaScript, CSS
@@ -49,3 +49,4 @@ Frontend e-commerce project with product filtering, cart system, and React conte
 
 ## 📫 Connect with me
 - GitHub: https://github.com/Bamijoko-Seyi
+- Email: bamijoko@ualberta.ca
