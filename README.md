@@ -4,8 +4,10 @@ I'm a software developer who recently graduated from the University of Alberta, 
 
 ---
 
-## 🚀 Projects
-
+# 🚀 Projects
+---
+## Solo Projects
+---
 ### 📱 LuckyEvent – Event Lottery Mobile App
 Android app for community events with QR check-in, Firebase backend, and role-based access.
 
