@@ -14,6 +14,7 @@ A desktop app the allows you to access the latest sport news from all availalble
 
 
 🛠 Tech: C#, XML, Visual Studio Code
+[Home Page](sports_app/Image_resources/Demo1.png)
 
 ### 🛒 E-Commerce Web App (In progress)
 Frontend e-commerce project with product filtering, cart system, and React context.
