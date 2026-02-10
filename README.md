@@ -30,7 +30,7 @@ Frontend e-commerce project with product filtering, cart system, and React conte
   <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/Ecommerence-App/refs/heads/main/frontend/src/assets/Demo2.png" width="350"/>
 </p>
 
-### 🛒 MultiMedia Mobile App (Temporarily suspended)
+### MultiMedia Mobile App (Temporarily suspended)
 Mobile app used to personalize and view media from many platforms.
 
 🔗 Repo: https://github.com/Bamijoko-Seyi/  
