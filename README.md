@@ -44,7 +44,21 @@ Mobile app used to personalize and view media from many platforms.
 
 
 ## Group Projects
----
+### CMPUT291-MongoDB-MiniProject2
+Text based social media app that utilizes python and mongoDB for its logic and storage.
+
+🔗 Repo: https://github.com/Bamijoko-Seyi/CMPUT291-MongoDB-MiniProject2
+
+🧑‍🔧 Roles:
+1. Implemented the data-loading functionality to import JSON files into MongoDB before program execution
+2. Developed search features for querying tweets and users using keyword-based, case-insensitive matching
+3. Designed and planned the text-based user interface (CLI structure and user interaction flow)
+
+🛠 Tech: Python, MongoDB
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/CMPUT291-MongoDB-MiniProject2/refs/heads/main/assets/Demo1.png" width="350"/>
+</p>
+
 
 ## 🧰 Tech Stack
 - Java / Kotlin / Python
