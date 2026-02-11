@@ -38,8 +38,8 @@ Mobile app used to personalize and view media from many platforms.
 
 🛠 Tech: JavaScript, CSS
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/MultiMedia-App/refs/heads/main/app/src/main/res/assets/Demo1.png" width="350"/>
-  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/MultiMedia-App/refs/heads/main/app/src/main/res/assets/Demo2.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/MultiMedia-App/refs/heads/main/app/src/main/res/assets/Demo1.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/MultiMedia-App/refs/heads/main/app/src/main/res/assets/Demo2.png" width="150"/>
 </p>
 
 
