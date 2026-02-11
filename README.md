@@ -34,7 +34,7 @@ Frontend e-commerce project with product filtering, cart system, and React conte
 ### MultiMedia Mobile App (Temporarily suspended)
 Mobile app used to personalize and view media from many platforms.
 
-🔗 Repo: https://github.com/Bamijoko-Seyi/  
+🔗 Repo: https://github.com/Bamijoko-Seyi/MultiMedia-App
 
 🛠 Tech: JavaScript, CSS
 <p align="center">
