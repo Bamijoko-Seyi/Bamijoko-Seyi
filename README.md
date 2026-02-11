@@ -24,6 +24,7 @@ A desktop app the allows you to access the latest sport news from all availalble
 Frontend e-commerce project with product filtering, cart system, and React context.
 
 🔗 Repo: https://github.com/Bamijoko-Seyi/Ecommerence-App
+
 🛠 Tech: React, JavaScript, CSS
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/Ecommerence-App/refs/heads/main/frontend/src/assets/Demo1.png" width="350"/>
@@ -34,7 +35,13 @@ Frontend e-commerce project with product filtering, cart system, and React conte
 Mobile app used to personalize and view media from many platforms.
 
 🔗 Repo: https://github.com/Bamijoko-Seyi/  
-🛠 Tech: React, JavaScript, CSS
+
+🛠 Tech: JavaScript, CSS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/MultiMedia-App/refs/heads/main/app/src/main/res/assets/Demo1.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Bamijoko-Seyi/MultiMedia-App/refs/heads/main/app/src/main/res/assets/Demo2.png" width="350"/>
+</p>
+
 
 ## Group Projects
 ---
